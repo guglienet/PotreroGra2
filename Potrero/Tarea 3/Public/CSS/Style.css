@@ -1,0 +1,62 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=WDXL+Lubrifont+TC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+QLD+Hand:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NO:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nova+Oval&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yuji+Hentaigana+Akari&display=swap');
+body {
+    background-color: #cf1156;
+}
+h1{   
+    font-family: "Cherry Bomb One", system-ui;
+}
+h1 {
+    color: blue;
+}
+h2 {
+    font-family: "WDXL Lubrifont TC", sans-serif;
+}
+h2 {
+    color: #9bebeb;
+}
+p {
+    font-family: "Edu QLD Hand", cursive;
+}
+p {
+    color: #7fdb07;
+}
+img {
+    width: 500px;
+    height: 250px;
+}
+img src {
+    width: 500px;
+    height: 250px;
+}
+a
+{
+    font-family: "Indie Flower", cursive;
+}
+a {
+    color: #050202;
+}
+h3 {
+    font-family: "Playwrite NO", cursive;
+}
+h3 {
+    color: #071cfa;
+}
+ul {
+    font-family: "Nova Oval", system-ui;
+}
+ul {
+    color: #0c4770;
+}
+ol {
+    font-family: "Yuji Hentaigana Akari", cursive;
+}
+ol {
+    color: #03153d;
+}
